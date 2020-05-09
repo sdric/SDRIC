@@ -740,14 +740,14 @@
                 "textTitle": "Welcome to S.D.R Inter College<br>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "S.D.R Inter College is comitted to the promotion of education and human values since 1995. <br>The institution always focuses on inherent skills and all over development of a child. The carefully choosen curriculum imparts extensive knowledge of prevalent disciplines. Activities like arts, painting, writing concepts and different physical activities are always be emphasized.<br>",
+                "text": "S.D.R Inter College is comitted to the promotion of education and human values since 1995. <br>The institution always focuses on inherent skills and all over development of a child.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img20190308165001-2000x1500.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -759,7 +759,7 @@
                 "textTitle": "BUILDING",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "School has neat and clean building and overall good infrastructure. safety and security of students is our first priority that's why school is fully equiped with safety measures.",
                 "buttons": "  <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>ADMISSION FORM</a>",
                 "overlayOpacity": "0.2"
               },
@@ -824,7 +824,7 @@
                 "image": "@PROJECT_PATH@/assets/images/img20191022114524-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -836,7 +836,7 @@
                 "textTitle": "",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "",
+                "text": "The carefully choosen curriculum imparts extensive knowledge of prevalent disciplines. Activities like arts, painting, writing concepts and different physical activities are always be emphasized.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
               }
             ]
@@ -1072,19 +1072,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20200503-wa0057-780x1040.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200503-wa0057-780x1040-780x1040.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-20200503-wa0059-720x1280.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20200503-wa0059-720x1280-662x821.jpeg",
                 "alt": "",
@@ -1104,7 +1091,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1117,20 +1104,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20200505-wa0047-712x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20200505-wa0047-712x1280-712x1280.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
